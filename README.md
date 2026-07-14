@@ -1,9 +1,9 @@
 ## Hi ,I'm Ebtihal 👋
-##Industrial Engineering Student ⚙️
-##Data Analytics & Supply Chain 📊 
-AI Enthusiast 🤖
-Python • Power BI 🖥️
-Learning, Building, Improving 🚀
+- 🎓 Pursuing a Bachelor's degree in Industrial Engineering at King Khalid University, expected to graduate in 2027.
+- Data Analytics & Supply Chain 📊 
+- AI Enthusiast 🤖
+- Python • Power BI 🖥️
+- Learning, Building, Improving 🚀
 
 --------------------------------------------
 ## About Me 🌟
