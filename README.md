@@ -1,9 +1,10 @@
 ## Hi ,I'm Ebtihal 👋
-Industrial Engineering Student ⚙️
-Data Analytics & Supply Chain 📊 
+##Industrial Engineering Student ⚙️
+##Data Analytics & Supply Chain 📊 
 AI Enthusiast 🤖
 Python • Power BI 🖥️
 Learning, Building, Improving 🚀
+
 --------------------------------------------
 ## About Me 🌟
 • Industrial Engineering student at King Khalid University
