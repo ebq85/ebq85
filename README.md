@@ -1,6 +1,17 @@
 ## Hi ,I'm Ebtihal 👋
+Industrial Engineering Student ⚙️
+Data Analytics & Supply Chain 📊 
+AI Enthusiast 🤖
+Python • Power BI 🖥️
+Learning, Building, Improving 🚀
 
+--------------------------------------------
+## About Me 🌟
 
+• Industrial Engineering student at King Khalid University
+• Passionate about Data Analytics & AI
+• Interested in Supply Chain Optimization
+• Always learning something new 🚀
 <!--
 **ebq85/ebq85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
