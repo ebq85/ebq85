@@ -1,16 +1,17 @@
 ## Hi ,I'm Ebtihal 👋
-- 🎓 Pursuing a Bachelor's degree in Industrial Engineering at King Khalid University, expected to graduate in 2027.
-- Data Analytics & Supply Chain 📊 
-- AI Enthusiast 🤖
-- Python • Power BI 🖥️
-- Learning, Building, Improving 🚀
+I'm an Industrial Engineering student who enjoys turning data into meaningful insights and solving real-world problems through analytics and technology. I'm passionate about supply chain optimization, artificial intelligence, and building practical projects that combine engineering with data-driven decision making. I'm continuously learning and expanding my skills to create impactful solutions.
 
 --------------------------------------------
+
 ## About Me 🌟
-• Industrial Engineering student at King Khalid University
-• Passionate about Data Analytics & AI
-• Interested in Supply Chain Optimization
-• Always learning something new 🚀
+
+- Industrial Engineering student at King Khalid University. 🎓
+- Expected to graduate in 2027. 📅
+- Passionate about Data Analytics and Business Intelligence. 📊
+- Interested in Artificial Intelligence and Automation. 🤖
+- Focused on Supply Chain and Process Optimization. 🚚
+- Always learning something new 🚀
+ 
 --------------------------------------------
 
 <!--
